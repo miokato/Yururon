@@ -1,0 +1,7 @@
+CuriousPapers/
+curious_papers_server/
+curious_papers_batch/
+
+.DS_Store
+.branches
+.temp
