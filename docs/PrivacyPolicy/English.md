@@ -11,6 +11,11 @@ and shares information when you use the **Curious Papers β** iOS app
 The App is developed and operated by an individual developer.
 For privacy-related inquiries, contact **miokato07@gmail.com**.
 
+If disclosure of the provider's name, address, or similar information is
+required under Japan's Act on the Protection of Personal Information or
+other applicable laws, we will respond without undue delay upon request,
+after reasonable identity verification.
+
 ## 2. Information we collect
 
 We collect only the information needed to provide the App's features.
@@ -42,6 +47,11 @@ If you grant App Tracking Transparency (ATT) permission, the App allows
 Google AdMob to access the **Identifier for Advertisers (IDFA)** to deliver
 more relevant ads on the paper detail screen. If you decline, ads are still
 shown but are not personalized using your IDFA.
+
+Even if you do not grant ATT permission, Google may process information
+needed for ad delivery, fraud prevention, impression measurement, and
+similar purposes. For details about Google's handling of information, please
+review Google's Privacy Policy and applicable AdMob policies.
 
 Premium subscribers do not see ads, and no advertising identifiers are
 accessed for them.
@@ -85,6 +95,13 @@ its own privacy policy.
 | Google AdMob     | In-app advertising                     | https://policies.google.com/privacy |
 | Apple Push Notification service | Delivering notifications | https://www.apple.com/legal/privacy/ |
 
+We send information to the third-party services above only to the extent
+necessary to provide the App. Each third-party service applies its own
+privacy policy and contractual terms to protect personal information. When
+selecting third-party services, we check that user data will be handled in a
+manner consistent with this Policy, applicable laws, and App Store
+requirements.
+
 Paper content shown in the App is fetched from **arXiv** by our backend.
 arXiv does not receive any of your personal data from the App.
 
@@ -99,9 +116,12 @@ to any AI service.
 
 - Account data and bookmarks are retained while your account exists.
 - If you delete your account, we delete the associated profile, bookmarks,
-  reading history, and device tokens within a reasonable period.
+  reading history, and device tokens in principle within 30 days.
 - Subscription records may be retained as required by Apple and tax law
   even after account deletion.
+- We may retain the minimum necessary information for a limited period to
+  comply with laws, prevent abuse, investigate technical issues, or prevent
+  restoration from backups.
 
 ## 7. Your rights
 
@@ -116,6 +136,12 @@ You can:
 - **Request account deletion** by contacting us at the email address above.
   We will delete your account data within 30 days of receiving the request.
 
+You may have the right under applicable laws to request access to,
+correction of, addition to, deletion of, suspension of use of, or suspension
+of third-party provision of your personal data held by us. To make such a
+request, please contact us at the address above. We will respond in
+accordance with applicable laws after reasonable identity verification.
+
 Depending on where you live, you may also have rights under applicable laws
 (such as GDPR or CCPA) to access, correct, or port your personal data.
 Contact us to exercise these rights.
@@ -129,9 +155,16 @@ it.
 
 ## 9. International data transfers
 
-Your data may be processed in countries other than your own, including in
-regions where our service providers (Supabase, RevenueCat, Google) operate.
-By using the App, you consent to such transfers.
+The third-party services used by the App may process data in countries or
+regions outside Japan. For example, account information, subscription
+status, information needed for ad delivery, and information needed for push
+notifications may be processed in regions where service providers such as
+Supabase, RevenueCat, Google, and Apple operate.
+
+We use these third-party services only to the extent necessary to provide
+the App, after reviewing their publicly available privacy policies, security
+information, contractual terms, and related materials. If you have questions
+about international data transfers, please contact us.
 
 ## 10. Security
 
