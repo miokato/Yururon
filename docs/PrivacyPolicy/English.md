@@ -134,8 +134,11 @@ You can:
   Tracking.
 - **Manage or cancel your subscription** from iOS Settings → Apple ID →
   Subscriptions.
-- **Request account deletion** by contacting us at the email address above.
-  We will delete your account data within 30 days of receiving the request.
+- **Delete your account** from the App's Settings screen. If you delete
+  your account, we will delete the associated account data in principle
+  within 30 days.
+- Contact us at the email address above if you need support with account
+  deletion or the handling of your personal information.
 
 You may have the right under applicable laws to request access to,
 correction of, addition to, deletion of, suspension of use of, or suspension

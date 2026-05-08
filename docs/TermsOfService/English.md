@@ -43,8 +43,9 @@ the original paper for further reading.
   notifications, and Premium subscription.
 - You are responsible for managing your Apple ID and the account associated
   with it.
-- You may request deletion of your account at any time. See section 7 of
-  the Privacy Policy for details.
+- You may delete your account at any time from the App's Settings screen.
+  For details about data deleted, information that may be retained, and
+  support for deletion, see sections 6 and 7 of the Privacy Policy.
 
 ## 5. AI-generated content (important)
 
