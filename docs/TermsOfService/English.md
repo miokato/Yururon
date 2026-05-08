@@ -25,8 +25,12 @@ the original paper for further reading.
 
 ## 3. Eligibility
 
-- The App is intended for users aged **13 or older**. If you are under 13,
-  you may not use the App.
+- The App is not primarily directed to children of any specific age group.
+- If you are a minor, you must use the App with the consent of your parent
+  or legal guardian and under their supervision.
+- If you use Premium subscription or any other paid features, you must make
+  the purchase with the consent of the Apple ID account holder or your
+  parent or legal guardian.
 - You agree to comply with these Terms and all applicable laws.
 - You must have a device and operating environment that supports the App,
   including Apple services such as Sign in with Apple where required.
