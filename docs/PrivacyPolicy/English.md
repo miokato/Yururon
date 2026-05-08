@@ -102,8 +102,9 @@ selecting third-party services, we check that user data will be handled in a
 manner consistent with this Policy, applicable laws, and App Store
 requirements.
 
-Paper content shown in the App is fetched from **arXiv** by our backend.
-arXiv does not receive any of your personal data from the App.
+Paper content shown in the App is fetched from **arXiv** and other external
+sources by our backend. These external sources do not receive any of your
+personal data from the App.
 
 ## 5. AI-generated content
 
