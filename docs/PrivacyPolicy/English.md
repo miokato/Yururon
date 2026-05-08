@@ -149,10 +149,16 @@ Contact us to exercise these rights.
 
 ## 8. Children's privacy
 
-The App is not directed to children under 13. We do not knowingly collect
-personal information from children under 13. If you believe a child has
-provided us with personal information, please contact us and we will delete
-it.
+The App is not primarily directed to children of any specific age group. If
+you are a minor, you must use the App with the consent of your parent or
+legal guardian and under their supervision.
+
+We do not knowingly collect more personal information from children than is
+necessary to provide the App. If a parent or legal guardian wishes to
+review, delete, or suspend the use of a child's personal information, or if
+you believe a child's information is included in the App, please contact
+us. We will respond in accordance with applicable laws after reasonable
+identity or guardian verification.
 
 ## 9. International data transfers
 
