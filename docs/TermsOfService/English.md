@@ -3,7 +3,7 @@
 **Effective date: May 7, 2026**
 
 These Terms of Service ("Terms") govern the relationship between the
-developer ("we", "us") of the **Curious Papers β** iOS app (the "App") and
+developer ("we", "us") of the **Yururon** iOS app (the "App") and
 each person who uses the App ("you", "user"). By downloading, installing,
 or using the App, you agree to be bound by these Terms in full. If you do
 not agree, please do not use the App.
@@ -155,7 +155,7 @@ detail screens.
 
 Signed-in users may receive push notifications about new papers and
 similar updates. You can disable notifications at any time from iOS
-Settings → Notifications → Curious Papers β.
+Settings → Notifications → Yururon.
 
 ## 12. Changes to or discontinuation of the service
 

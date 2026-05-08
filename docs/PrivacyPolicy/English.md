@@ -3,7 +3,7 @@
 **Effective date: May 6, 2026**
 
 This Privacy Policy describes how the developer ("we", "us") collects, uses,
-and shares information when you use the **Curious Papers β** iOS app
+and shares information when you use the **Yururon** iOS app
 (the "App"). By using the App, you agree to the practices described below.
 
 ## 1. Who we are
