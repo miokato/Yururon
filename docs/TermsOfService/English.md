@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective date: May 7, 2026**
+**Effective date: May 13, 2026**
 
 These Terms of Service ("Terms") govern the relationship between the
 developer ("we", "us") of the **Yururon** iOS app (the "App") and
@@ -29,9 +29,6 @@ the original paper for further reading.
 - The App is not primarily directed to children of any specific age group.
 - If you are a minor, you must use the App with the consent of your parent
   or legal guardian and under their supervision.
-- If you use Premium subscription or any other paid features, you must make
-  the purchase with the consent of the Apple ID account holder or your
-  parent or legal guardian.
 - You agree to comply with these Terms and all applicable laws.
 - You must have a device and operating environment that supports the App,
   including Apple services such as Sign in with Apple where required.
@@ -39,8 +36,8 @@ the original paper for further reading.
 ## 4. Account
 
 - Most features of the App are available without signing in.
-- Sign-in via **Sign in with Apple** is required for bookmarks, push
-  notifications, and Premium subscription.
+- Sign-in via **Sign in with Apple** is required for bookmarks and push
+  notifications.
 - You are responsible for managing your Apple ID and the account associated
   with it.
 - You may delete your account at any time from the App's Settings screen.
@@ -108,56 +105,22 @@ When using the App, you must not:
   applicable law.
 - Engage in any other conduct we reasonably consider inappropriate.
 
-## 9. Premium subscription
+## 9. Advertising
 
-The App may offer a paid Premium subscription delivered as an Apple In-App
-Purchase. The following terms apply to the Premium subscription:
-
-- **What is included**: Premium subscription primarily includes ad removal
-  and any Premium features shown on the purchase screen or elsewhere in the
-  App. The specific features, price, and subscription period are as shown by
-  the App Store or within the App at the time of purchase.
-- **Payment**: Payment is processed by Apple through your Apple ID. We
-  do not directly receive your payment details (such as credit-card
-  information).
-- **Auto-renewal**: Your subscription will automatically renew unless
-  auto-renew is turned off **at least 24 hours before** the end of the
-  current period. Your Apple ID will be charged for renewal within 24
-  hours prior to the end of the current period.
-- **Manage and cancel**: You can manage your subscription and turn off
-  auto-renewal in iOS Settings → Apple ID → Subscriptions. If you cancel,
-  you can continue using Premium features until the end of the period you
-  have already paid for.
-- **Restore purchases**: After changing devices or reinstalling the App,
-  you may be able to restore your subscription status based on your App
-  Store purchase history.
-- **Free trial**: If a free trial is offered, any unused portion of the
-  trial is forfeited when you purchase a paid subscription.
-- **Price changes**: We may change the price or the features included in
-  the Premium subscription, in accordance with Apple's policies.
-  Material changes will be communicated to you in advance through
-  appropriate channels.
-- **Refunds**: Refund requests are governed by Apple's policies. We are
-  not able to issue refunds directly.
-
-## 10. Advertising
-
-In the free tier, ads are shown via Google AdMob, including on paper
-detail screens.
+Ads are shown via Google AdMob, including on paper detail screens.
 
 - If you grant App Tracking Transparency (ATT) permission, ads may be
   personalized using your IDFA.
-- Active Premium subscribers do not see ads.
 - The content of ads is determined by AdMob's delivery system. We do not
   control or warrant the content of any ad.
 
-## 11. Push notifications
+## 10. Push notifications
 
 Signed-in users may receive push notifications about new papers and
 similar updates. You can disable notifications at any time from iOS
 Settings → Notifications → Yururon.
 
-## 12. Changes to or discontinuation of the service
+## 11. Changes to or discontinuation of the service
 
 We may modify, add to, or remove features of the App, or suspend or
 discontinue all or part of the App, when necessary for maintenance,
@@ -171,14 +134,14 @@ its features, displayed content, supported environments, and availability
 period may change. We are not liable for damages arising from such changes,
 suspensions, or discontinuation where the cause is not attributable to us.
 
-## 13. Account suspension
+## 12. Account suspension
 
 If you violate these Terms, if there is suspected abuse, a security issue,
 a legal violation, a risk of infringing third-party rights, or an
 unavoidable operational need, we may suspend or delete your account and
 restrict your use of the App without prior notice.
 
-## 14. Disclaimer of warranties
+## 13. Disclaimer of warranties
 
 The App is provided **"as is" and "as available"**. To the maximum extent
 permitted by law, we disclaim all warranties, whether express or implied,
@@ -191,7 +154,7 @@ AI-generated content), including without limitation:
 - Uninterrupted or error-free operation
 - Freedom from security defects
 
-## 15. Limitation of liability
+## 14. Limitation of liability
 
 We are not liable for damages arising out of or related to your use of, or
 inability to use, the App (including reliance on AI-generated content) if
@@ -203,9 +166,7 @@ for lost profits, loss of data, business interruption, harm to reputation,
 indirect damages, special damages, or consequential damages in such cases.
 
 If we are liable due to ordinary negligence, our total aggregate liability
-will not exceed the amount you paid us for the App during the twelve (12)
-months preceding the event giving rise to the claim. For free users, our
-liability is capped at JPY 1,000.
+will not exceed JPY 1,000.
 
 The limitations above do not apply to damages caused by our willful
 misconduct or gross negligence.
@@ -214,27 +175,27 @@ Some jurisdictions do not allow the exclusion of certain warranties or
 limitations of liability. In such jurisdictions, the above provisions
 apply to the maximum extent permitted by applicable law.
 
-## 16. Third-party services
+## 15. Third-party services
 
 The App relies on third-party services including Sign in with Apple,
-Supabase, RevenueCat, Google AdMob, and Apple Push Notification service.
+Supabase, Google AdMob, and Apple Push Notification service.
 The behavior, content, and conditions of those services are subject to
 the applicable third party's own terms and privacy policy.
 
-## 17. Privacy
+## 16. Privacy
 
 The handling of information we collect from you is described in our
 separate **Privacy Policy**. By using the App, you also agree to the
 Privacy Policy.
 
-## 18. Governing law and jurisdiction
+## 17. Governing law and jurisdiction
 
 These Terms are governed by the **laws of Japan**. Any dispute arising
 out of or related to these Terms or the App will be subject to the
 exclusive jurisdiction of the **Tokyo District Court** of Japan as the
 court of first instance.
 
-## 19. Changes to these Terms
+## 18. Changes to these Terms
 
 We may revise these Terms if the change is in users' general interests, or
 if the change is reasonable in light of the need for the change, the
@@ -247,12 +208,12 @@ provide notice a reasonable period before the change takes effect. By
 continuing to use the App after a change becomes effective, you accept the
 revised Terms.
 
-## 20. Severability
+## 19. Severability
 
 If any provision of these Terms is held to be invalid or unenforceable,
 the remaining provisions will remain in full force and effect.
 
-## 21. Contact
+## 20. Contact
 
 For questions about these Terms, please contact:
 

@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date: May 6, 2026**
+**Effective date: May 13, 2026**
 
 This Privacy Policy describes how the developer ("we", "us") collects, uses,
 and shares information when you use the **Yururon** iOS app
@@ -30,7 +30,7 @@ When you sign in with **Sign in with Apple**, we receive:
 - Your display name (only if you choose to share it on first sign-in)
 
 You can use most of the App without signing in. Sign-in is required only for
-bookmarks, push notifications, and Premium subscription.
+bookmarks and push notifications.
 
 ### 2.2 Usage data stored to your account
 
@@ -39,7 +39,6 @@ When you are signed in, the following data is associated with your account:
 - **Bookmarks** — papers you have bookmarked
 - **Reading history** — papers you have opened from the list
 - **Device push token** — used to deliver new-paper notifications
-- **Subscription status** — whether you have an active Premium subscription
 
 ### 2.3 Advertising identifiers
 
@@ -53,17 +52,7 @@ needed for ad delivery, fraud prevention, impression measurement, and
 similar purposes. For details about Google's handling of information, please
 review Google's Privacy Policy and applicable AdMob policies.
 
-Premium subscribers do not see ads, and no advertising identifiers are
-accessed for them.
-
-### 2.4 Purchase information
-
-In-app purchases (Premium subscription) are processed by Apple. We do not
-receive your payment details. We do receive, via RevenueCat, an anonymous
-purchase identifier and your subscription status so the App can grant
-Premium features.
-
-### 2.5 Information we do not collect
+### 2.4 Information we do not collect
 
 - We do not collect precise location data.
 - We do not access your contacts, photos, microphone, or camera.
@@ -76,8 +65,7 @@ We use collected information to:
 - Authenticate you and keep you signed in
 - Sync your bookmarks and reading history across your devices
 - Send push notifications when new papers are published (only if enabled)
-- Determine your subscription status to enable Premium features
-- Show ads in the free tier, and (with your consent) personalize them
+- Show ads in the App, and (with your consent) personalize them
 - Investigate technical issues and prevent abuse
 
 We do not sell your personal information.
@@ -91,7 +79,6 @@ its own privacy policy.
 |------------------|----------------------------------------|-------------------|
 | Sign in with Apple | Authentication                       | https://www.apple.com/legal/privacy/ |
 | Supabase         | Backend database and authentication    | https://supabase.com/privacy |
-| RevenueCat       | Subscription management                | https://www.revenuecat.com/privacy |
 | Google AdMob     | In-app advertising                     | https://policies.google.com/privacy |
 | Apple Push Notification service | Delivering notifications | https://www.apple.com/legal/privacy/ |
 
@@ -118,8 +105,6 @@ to any AI service.
 - Account data and bookmarks are retained while your account exists.
 - If you delete your account, we delete the associated profile, bookmarks,
   reading history, and device tokens in principle within 30 days.
-- Subscription records may be retained as required by Apple and tax law
-  even after account deletion.
 - We may retain the minimum necessary information for a limited period to
   comply with laws, prevent abuse, investigate technical issues, or prevent
   restoration from backups.
@@ -132,8 +117,6 @@ You can:
 - **Disable push notifications** from iOS Settings → Notifications.
 - **Withdraw tracking consent** from iOS Settings → Privacy & Security →
   Tracking.
-- **Manage or cancel your subscription** from iOS Settings → Apple ID →
-  Subscriptions.
 - **Delete your account** from the App's Settings screen. If you delete
   your account, we will delete the associated account data in principle
   within 30 days.
@@ -166,10 +149,10 @@ identity or guardian verification.
 ## 9. International data transfers
 
 The third-party services used by the App may process data in countries or
-regions outside Japan. For example, account information, subscription
-status, information needed for ad delivery, and information needed for push
-notifications may be processed in regions where service providers such as
-Supabase, RevenueCat, Google, and Apple operate.
+regions outside Japan. For example, account information, information needed
+for ad delivery, and information needed for push notifications may be
+processed in regions where service providers such as Supabase, Google, and
+Apple operate.
 
 We use these third-party services only to the extent necessary to provide
 the App, after reviewing their publicly available privacy policies, security
