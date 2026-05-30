@@ -9,7 +9,7 @@ and shares information when you use the **Yururon** iOS app
 ## 1. Who we are
 
 The App is developed and operated by an individual developer.
-For privacy-related inquiries, contact **miokato07@gmail.com**.
+For privacy-related inquiries, contact **support@yururon.app**.
 
 If disclosure of the provider's name, address, or similar information is
 required under Japan's Act on the Protection of Personal Information or
@@ -175,4 +175,4 @@ in the App or via email where appropriate.
 
 For questions or requests related to this Privacy Policy, please contact:
 
-**miokato07@gmail.com**
+**support@yururon.app**

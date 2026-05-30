@@ -11,7 +11,7 @@ not agree, please do not use the App.
 ## 1. Who we are
 
 The App is developed and operated by an individual developer.
-For inquiries about these Terms, contact **miokato07@gmail.com**.
+For inquiries about these Terms, contact **support@yururon.app**.
 
 ## 2. About the App
 
@@ -217,4 +217,4 @@ the remaining provisions will remain in full force and effect.
 
 For questions about these Terms, please contact:
 
-**miokato07@gmail.com**
+**support@yururon.app**

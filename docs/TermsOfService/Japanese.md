@@ -11,7 +11,7 @@
 ## 1. 提供者について
 
 本アプリは個人開発者によって開発・運営されています。本規約に関するお問い
-合わせは **miokato07@gmail.com** までご連絡ください。
+合わせは **support@yururon.app** までご連絡ください。
 
 ## 2. 本アプリについて
 
@@ -202,4 +202,4 @@ Apple Push Notification service などの第三者サービスを利用してい
 
 本規約に関するご質問は、以下までご連絡ください。
 
-**miokato07@gmail.com**
+**support@yururon.app**
