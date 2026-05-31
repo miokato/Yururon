@@ -1,0 +1,13 @@
+{
+  "name": "yururon-docs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Yururon 紹介サイト (Cloudflare Pages 配信). 法的文書の Markdown を HTML 化してビルドする.",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "devDependencies": {
+    "marked": "^15.0.0"
+  }
+}

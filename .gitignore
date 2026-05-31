@@ -5,3 +5,7 @@ curious_papers_batch/
 .DS_Store
 .branches
 .temp
+
+# ビルド成果物・依存 (Cloudflare Pages 化)
+dist/
+node_modules/

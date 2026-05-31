@@ -294,6 +294,41 @@ section h2 {
     margin: 0 12px;
 }
 
+/* Legal documents (PrivacyPolicy / TermsOfService) */
+.legal {
+    padding-top: 40px;
+    padding-bottom: 64px;
+}
+
+.legal h1 {
+    font-size: 32px;
+    margin: 0 0 24px;
+}
+
+.legal h2 {
+    font-size: 22px;
+    margin: 40px 0 12px;
+}
+
+.legal h3 {
+    font-size: 18px;
+    margin: 28px 0 8px;
+}
+
+.legal p,
+.legal li {
+    color: var(--text);
+}
+
+.legal ul,
+.legal ol {
+    padding-left: 24px;
+}
+
+.legal li {
+    margin: 6px 0;
+}
+
 /* Mobile */
 @media (max-width: 600px) {
     .hero {
