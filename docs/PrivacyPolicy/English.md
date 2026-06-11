@@ -52,6 +52,13 @@ needed for ad delivery, fraud prevention, impression measurement, and
 similar purposes. For details about Google's handling of information, please
 review Google's Privacy Policy and applicable AdMob policies.
 
+For users in the European Economic Area, the United Kingdom, and
+Switzerland, we use Google's User Messaging Platform (UMP) to request and
+manage advertising consent before requesting ads where required. If a
+privacy options entry point is required for your region or consent status,
+the App shows an ad privacy settings item so you can review or change your
+choices.
+
 ### 2.4 Information we do not collect
 
 - We do not collect precise location data.
@@ -117,6 +124,8 @@ You can:
 - **Disable push notifications** from iOS Settings → Notifications.
 - **Withdraw tracking consent** from iOS Settings → Privacy & Security →
   Tracking.
+- **Review or change ad consent choices** from the App's Settings screen
+  when the ad privacy settings item is available.
 - **Delete your account** from the App's Settings screen. If you delete
   your account, we will delete the associated account data in principle
   within 30 days.

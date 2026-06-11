@@ -111,6 +111,9 @@ Ads are shown via Google AdMob, including on paper detail screens.
 
 - If you grant App Tracking Transparency (ATT) permission, ads may be
   personalized using your IDFA.
+- Where required, including for users in the European Economic Area, the
+  United Kingdom, and Switzerland, the App requests and manages ad consent
+  using Google's User Messaging Platform before requesting ads.
 - The content of ads is determined by AdMob's delivery system. We do not
   control or warrant the content of any ad.
 
