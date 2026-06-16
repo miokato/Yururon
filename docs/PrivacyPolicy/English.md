@@ -52,6 +52,14 @@ needed for ad delivery, fraud prevention, impression measurement, and
 similar purposes. For details about Google's handling of information, please
 review Google's Privacy Policy and applicable AdMob policies.
 
+We also use Meta's SDK (App Events) to measure the effectiveness of the app
+promotion ads we run on Meta (Facebook / Instagram). If you grant ATT
+permission, Meta uses the IDFA to attribute app installs and launches that
+originate from those ads. If you decline, no IDFA-based measurement is
+performed and only aggregated measurement via Apple's SKAdNetwork takes
+place. For details about Meta's handling of information, please review Meta's
+Privacy Policy.
+
 For users in the European Economic Area, the United Kingdom, and
 Switzerland, we use Google's User Messaging Platform (UMP) to request and
 manage advertising consent before requesting ads where required. If a
@@ -87,6 +95,7 @@ its own privacy policy.
 | Sign in with Apple | Authentication                       | https://www.apple.com/legal/privacy/ |
 | Supabase         | Backend database and authentication    | https://supabase.com/privacy |
 | Google AdMob     | In-app advertising                     | https://policies.google.com/privacy |
+| Meta (Facebook)  | Measuring the effectiveness of our app promotion ads | https://www.facebook.com/privacy/policy/ |
 | Apple Push Notification service | Delivering notifications | https://www.apple.com/legal/privacy/ |
 
 We send information to the third-party services above only to the extent

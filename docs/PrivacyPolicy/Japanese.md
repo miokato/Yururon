@@ -51,6 +51,13 @@ ATT を許可しない場合でも、広告配信、不正防止、表示回数�
 Google により処理される場合があります。Google による情報の取扱いについては、
 Google のプライバシーポリシーおよび AdMob 関連ポリシーをご確認ください。
 
+また、当方が Meta（Facebook / Instagram）に出稿するアプリ宣伝広告の効果を測定する
+ため、Meta の SDK（App Events）を利用します。ATT の許可を頂いた場合は IDFA を用いて
+広告経由のインストールや起動を Meta が計測（アトリビューション）します。許可されない
+場合は IDFA を用いた計測は行わず、Apple の SKAdNetwork による集計的な計測のみが
+行われます。Meta による情報の取扱いについては、Meta のデータに関するポリシーを
+ご確認ください。
+
 欧州経済領域（EEA）、英国、スイスのお客様については、必要に応じて広告リクエスト
 前に Google User Messaging Platform（UMP）を用いて広告に関する同意を取得・管理
 します。お住まいの地域や同意状態に応じてプライバシー設定の導線が必要な場合、
@@ -85,6 +92,7 @@ Google のプライバシーポリシーおよび AdMob 関連ポリシーをご
 | Appleでサインイン | 認証                                  | https://www.apple.com/legal/privacy/ |
 | Supabase          | バックエンドの DB と認証                | https://supabase.com/privacy |
 | Google AdMob      | アプリ内広告                           | https://policies.google.com/privacy |
+| Meta（Facebook）  | 出稿したアプリ宣伝広告の効果測定        | https://www.facebook.com/privacy/policy/ |
 | Apple Push Notification service | プッシュ通知配信       | https://www.apple.com/legal/privacy/ |
 
 当方は、上記の第三者サービスに対し、本アプリの提供に必要な範囲でのみ情報を
