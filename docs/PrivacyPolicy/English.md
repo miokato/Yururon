@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective date: May 13, 2026**
+**Effective date: June 23, 2026**
 
 This Privacy Policy describes how the developer ("we", "us") collects, uses,
 and shares information when you use the **Yururon** iOS app
@@ -40,7 +40,22 @@ When you are signed in, the following data is associated with your account:
 - **Reading history** — papers you have opened from the list
 - **Device push token** — used to deliver new-paper notifications
 
-### 2.3 Advertising identifiers
+### 2.3 Purchase and subscription information
+
+If you subscribe to Yururon Premium, we process the following information
+through our subscription-management provider, **RevenueCat**, to provide the
+subscription and determine your entitlement status:
+
+- Purchase date, renewal date, and the status of your active subscription
+  (entitlement)
+- The identifier of the purchased product (monthly or annual)
+
+To associate your subscription status with your account, we send your account's
+user identifier (UUID) to RevenueCat. **Payment details such as your credit
+card number are processed by Apple (the App Store); neither we nor RevenueCat
+receive them.**
+
+### 2.4 Advertising identifiers
 
 If you grant App Tracking Transparency (ATT) permission, the App allows
 Google AdMob to access the **Identifier for Advertisers (IDFA)** to deliver
@@ -67,7 +82,7 @@ privacy options entry point is required for your region or consent status,
 the App shows an ad privacy settings item so you can review or change your
 choices.
 
-### 2.4 Information we do not collect
+### 2.5 Information we do not collect
 
 - We do not collect precise location data.
 - We do not access your contacts, photos, microphone, or camera.
@@ -80,6 +95,7 @@ We use collected information to:
 - Authenticate you and keep you signed in
 - Sync your bookmarks and reading history across your devices
 - Send push notifications when new papers are published (only if enabled)
+- Provide the subscription (Premium) and determine your entitlement status
 - Show ads in the App, and (with your consent) personalize them
 - Investigate technical issues and prevent abuse
 
@@ -94,6 +110,7 @@ its own privacy policy.
 |------------------|----------------------------------------|-------------------|
 | Sign in with Apple | Authentication                       | https://www.apple.com/legal/privacy/ |
 | Supabase         | Backend database and authentication    | https://supabase.com/privacy |
+| RevenueCat       | Subscription management and entitlement processing | https://www.revenuecat.com/privacy |
 | Google AdMob     | In-app advertising                     | https://policies.google.com/privacy |
 | Meta (Facebook)  | Measuring the effectiveness of our app promotion ads | https://www.facebook.com/privacy/policy/ |
 | Apple Push Notification service | Delivering notifications | https://www.apple.com/legal/privacy/ |
@@ -167,10 +184,10 @@ identity or guardian verification.
 ## 9. International data transfers
 
 The third-party services used by the App may process data in countries or
-regions outside Japan. For example, account information, information needed
-for ad delivery, and information needed for push notifications may be
-processed in regions where service providers such as Supabase, Google, and
-Apple operate.
+regions outside Japan. For example, account information, subscription status
+information, information needed for ad delivery, and information needed for push
+notifications may be processed in regions where service providers such as
+Supabase, Google, Apple, and RevenueCat operate.
 
 We use these third-party services only to the extent necessary to provide
 the App, after reviewing their publicly available privacy policies, security

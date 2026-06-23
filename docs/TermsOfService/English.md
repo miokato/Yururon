@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Effective date: May 13, 2026**
+**Effective date: June 23, 2026**
 
 These Terms of Service ("Terms") govern the relationship between the
 developer ("we", "us") of the **Yururon** iOS app (the "App") and
@@ -105,7 +105,34 @@ When using the App, you must not:
   applicable law.
 - Engage in any other conduct we reasonably consider inappropriate.
 
-## 9. Advertising
+## 9. Subscriptions (Yururon Premium)
+
+The App offers a paid, auto-renewable subscription, **"Yururon Premium."**
+
+- **Plans**: A monthly plan and an annual plan are available. The plan name,
+  price, and billing period are shown on the in-app purchase screen before you
+  confirm a purchase.
+- **Benefits**: With Premium, **ads are removed** and you can **search past
+  papers by keyword**. The benefits may change as the service evolves.
+- **Billing**: Payment is charged to your Apple ID account upon confirmation of
+  purchase. All billing, payment, and renewal are processed by Apple (the App
+  Store); we do not receive payment details such as your credit card number.
+- **Auto-renewal**: The subscription renews automatically, and you will be
+  charged for the renewal, unless auto-renewal is turned off at least 24 hours
+  before the end of the current period.
+- **Cancellation and management**: You can turn off auto-renewal or cancel at
+  any time from your device's App Store account settings (or via "Manage
+  Subscription" in the App's settings). Cancellation takes effect at the next
+  renewal date.
+- **Price changes**: If we change the price, we will notify you in advance in
+  accordance with Apple's procedures and obtain your consent where required.
+- **Refunds**: Refunds after purchase are governed by Apple's policies. As a
+  rule, no refund is provided for any unused portion of a period.
+- **Subscription state**: We use RevenueCat to provide the subscription and to
+  determine your entitlement status. For the information processed in connection
+  with this, please see our separate **Privacy Policy**.
+
+## 10. Advertising
 
 Ads are shown via Google AdMob, including on paper detail screens.
 
@@ -117,13 +144,13 @@ Ads are shown via Google AdMob, including on paper detail screens.
 - The content of ads is determined by AdMob's delivery system. We do not
   control or warrant the content of any ad.
 
-## 10. Push notifications
+## 11. Push notifications
 
 Signed-in users may receive push notifications about new papers and
 similar updates. You can disable notifications at any time from iOS
 Settings → Notifications → Yururon.
 
-## 11. Changes to or discontinuation of the service
+## 12. Changes to or discontinuation of the service
 
 We may modify, add to, or remove features of the App, or suspend or
 discontinue all or part of the App, when necessary for maintenance,
@@ -137,14 +164,14 @@ its features, displayed content, supported environments, and availability
 period may change. We are not liable for damages arising from such changes,
 suspensions, or discontinuation where the cause is not attributable to us.
 
-## 12. Account suspension
+## 13. Account suspension
 
 If you violate these Terms, if there is suspected abuse, a security issue,
 a legal violation, a risk of infringing third-party rights, or an
 unavoidable operational need, we may suspend or delete your account and
 restrict your use of the App without prior notice.
 
-## 13. Disclaimer of warranties
+## 14. Disclaimer of warranties
 
 The App is provided **"as is" and "as available"**. To the maximum extent
 permitted by law, we disclaim all warranties, whether express or implied,
@@ -157,7 +184,7 @@ AI-generated content), including without limitation:
 - Uninterrupted or error-free operation
 - Freedom from security defects
 
-## 14. Limitation of liability
+## 15. Limitation of liability
 
 We are not liable for damages arising out of or related to your use of, or
 inability to use, the App (including reliance on AI-generated content) if
@@ -178,27 +205,27 @@ Some jurisdictions do not allow the exclusion of certain warranties or
 limitations of liability. In such jurisdictions, the above provisions
 apply to the maximum extent permitted by applicable law.
 
-## 15. Third-party services
+## 16. Third-party services
 
 The App relies on third-party services including Sign in with Apple,
-Supabase, Google AdMob, and Apple Push Notification service.
+Supabase, Google AdMob, RevenueCat, and Apple Push Notification service.
 The behavior, content, and conditions of those services are subject to
 the applicable third party's own terms and privacy policy.
 
-## 16. Privacy
+## 17. Privacy
 
 The handling of information we collect from you is described in our
 separate **Privacy Policy**. By using the App, you also agree to the
 Privacy Policy.
 
-## 17. Governing law and jurisdiction
+## 18. Governing law and jurisdiction
 
 These Terms are governed by the **laws of Japan**. Any dispute arising
 out of or related to these Terms or the App will be subject to the
 exclusive jurisdiction of the **Tokyo District Court** of Japan as the
 court of first instance.
 
-## 18. Changes to these Terms
+## 19. Changes to these Terms
 
 We may revise these Terms if the change is in users' general interests, or
 if the change is reasonable in light of the need for the change, the
@@ -211,12 +238,12 @@ provide notice a reasonable period before the change takes effect. By
 continuing to use the App after a change becomes effective, you accept the
 revised Terms.
 
-## 19. Severability
+## 20. Severability
 
 If any provision of these Terms is held to be invalid or unenforceable,
 the remaining provisions will remain in full force and effect.
 
-## 20. Contact
+## 21. Contact
 
 For questions about these Terms, please contact:
 
