@@ -16,11 +16,13 @@ const outDir = path.join(root, "dist");
 const legalDocs = [
   ["PrivacyPolicy", "Japanese"],
   ["PrivacyPolicy", "English"],
+  ["PrivacyPolicy", "EvenHub_Japanese"],
+  ["PrivacyPolicy", "EvenHub_English"],
   ["TermsOfService", "Japanese"],
   ["TermsOfService", "English"],
 ];
 
-const isJapanese = (file) => file === "Japanese";
+const isJapanese = (file) => file.endsWith("Japanese");
 
 // 法的文書 1 ページ分の HTML. ヘッダ/フッタ/スタイルは紹介サイト本体と揃える.
 // 法的文書はいずれも 1 階層下に配置されるため、相対パスは `../` 基準で整合する.
